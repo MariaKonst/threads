@@ -1,0 +1,10 @@
+Product{name='guess_червена_блуза', category='тениска', price=34.3} 
+Product{name='guess_bold_блуза', category='тениска', price=47.7} 
+Product{name='guess_блуза', category='тениска', price=54.3} 
+Product{name='guess_logo_блуза', category='тениска', price=57.7} 
+Product{name='guess_diamonds_блуза', category='тениска', price=62.9} 
+Product{name='guess_kiara_дамска_блуза', category='тениска', price=64.2} 
+Product{name='guess_triangle_tee_дамска_блуза', category='тениска', price=64.2} 
+Product{name='guess_flowers_блуза', category='тениска', price=72.9} 
+Product{name='guess_сако', category='яке', price=95.0} 
+Product{name='guess_черно_дамско_яке', category='яке', price=104.3} 
